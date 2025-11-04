@@ -1,0 +1,16 @@
+{
+  "name": "Nadec",
+  "short_name": "Nadec",
+  "description": "A modern registration and login interface with email and phone options, replicating a specific UI design provided by the user.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c0f3b",
+  "theme_color": "#7e22ce",
+  "icons": [
+    {
+      "src": "/images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
